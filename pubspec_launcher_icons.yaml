@@ -1,0 +1,12 @@
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/icons/resort-logo.jpg"
+  
+  # iOS Icon Sizes
+  ios_settings:
+    image_path: "assets/icons/resort-logo.jpg"
+  
+  # Android Icon Sizes
+  android_settings:
+    image_path: "assets/icons/resort-logo.jpg"
